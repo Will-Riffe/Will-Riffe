@@ -20,18 +20,19 @@ Welcome to my GitHub profile! I'm a passionate new web developer  transitioning 
 - Object Relational Mapping (ORM)
 - Model-View-Control (MVC)
 
-
+<!--
 ## 🌐 Connect with Me
 
 You can find me on different platforms. Let's connect and collaborate:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />](https://www.linkedin.com/in/w-r/)
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />](https://twitter.com/wills_rocks?s=21&t=Zgur_-ZrBedC_sEIRb7FGg)
+[<img align="left" alt="LinkedIn" width="50px" src="https://i.imgur.com/mg8oOzZ.png" />](https://www.linkedin.com/in/w-r/)
+</br>
+[<img align="left" alt="Twitter" width="50px" src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter" />](https://twitter.com/wills_rocks?s=21&t=Zgur_-ZrBedC_sEIRb7FGg)
 [<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/discord.svg" />](discordapp.com/users/Bustajawline#3346)
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://will-riffe.github.io/portfolio/)
 
-<br />
-
+</br>
+-->
 ## 📚 Interests/Hobbies
 
 Hiking | Urban Exploration | Photography | AI Prompt Engineering | AI Art Generation | Reading |
